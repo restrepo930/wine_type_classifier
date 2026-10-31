@@ -1,2 +1,2 @@
 # wine_type_classifier
-This is Wine Type Binary Classifier ML
+This is a Wine Type Binary Classifier ML
